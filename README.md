@@ -11,7 +11,7 @@
 ## 💻 Projeto
 Desenvolvi esse projeto para resolver um problema específico onde as ferramentas disponíveis na internet não estava atendendo da maneira que eu gostária.
 
-Nessa primeira versão do projeto o backend irá ler linha por linha de um arquivo txt armazenando em um novo array de objetos o valor dessa linha, e por fim criar um arquivo JSON com esse array.
+Nessa primeira versão do projeto o backend irá ler linha por linha de um arquivo txt, armazenando em um novo array de objetos o valor dessa linha, e por fim criar um arquivo JSON com esse array de objetos.
 
 ## :rocket: Tecnologias
 
@@ -24,6 +24,8 @@ Tecnologias utilizadas no projeto:
 1. Faça o download do projeto
 2. Rode o comando `yarn` para instalar todas as dependências necessárias.
 3. Rode o comando `yarn dev` para iniciar o servidor Node
+3. Utilize o [Insomnia](https://insomnia.rest/) para realizar as requisições para a API.
+4. Crie uma pasta `tmp` na raiz do projeto e dentro dela crie uma pasta `uploads`
 
 
 ## 🤔 Como contribuir
